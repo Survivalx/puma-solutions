@@ -1,0 +1,362 @@
+[
+    {
+        "id": "puma-active-woven-pants-cl",
+        "category": "Clothes",
+        "type": "Pants",
+        "name": "Puma Active Woven Pants Cl",
+        "image": "https://pumamoldova.md/images/products/jpg/58673301875x875.jpg?v12.68",
+        "price": 999
+    },
+    {
+        "id": "puma-ess-logo-pants-fl-cl",
+        "category": "Clothes",
+        "type": "Pants",
+        "name": "Puma Ess Logo Pants Fl Cl",
+        "image": "https://pumamoldova.md/images/products/jpg/58671453875x875.jpg?v12.68",
+        "price": 999
+    },
+    {
+        "id": "puma-porsche-sweat-pants",
+        "category": "Clothes",
+        "type": "Pants",
+        "name": "Puma Porsche Sweat Pants",
+        "image": "https://pumamoldova.md/images/products/jpg/62111321875x875.jpg?v12.68",
+        "price": 2589
+    },
+    {
+        "id": "puma-better-sportwear-sweatpants",
+        "category": "Clothes",
+        "type": "Pants",
+        "name": "Puma Better Sportswear Sweatpants Tr Cl",
+        "image": "https://pumamoldova.md/images/products/jpg/67606501875x875.jpg?v12.68",
+        "price": 1439
+    },
+    {
+        "id": "puma-x-staple-aop-woven-pants",
+        "category": "Clothes",
+        "type": "Pants",
+        "name": "Puma X Staple Aop Woven Pants",
+        "image": "https://pumamoldova.md/images/products/jpg/53982801875x875.jpg?v12.68",
+        "price": 1999
+    },
+    {
+        "id": "puma-ferrari-style-polo-jacquard",
+        "category": "Clothes",
+        "type": "T-shirts",
+        "name": "Puma Ferrari Style Polo Jacquard",
+        "image": "https://pumamoldova.md/images/products/jpg/62098701875x875.jpg?v12.68",
+        "price": 2299
+    },
+    {
+        "id": "puma-ferrari-race-mt7",
+        "category": "Clothes",
+        "type": "T-shirts",
+        "name": "Puma Ferrari Race Mt7",
+        "image": "https://pumamoldova.md/images/products/jpg/53820702875x875.jpg?v12.68",
+        "price": 1999
+    },
+    {
+        "id": "puma-bmw-mms-jacquard",
+        "category": "Clothes",
+        "type": "T-shirts",
+        "name": "Puma Bmw Mms Jacquard",
+        "image": "https://pumamoldova.md/images/products/jpg/62184601875x875.jpg?v12.68",
+        "price": 1799
+    },
+    {
+        "id": "puma-teamliga-jersey-cyber",
+        "category": "Clothes",
+        "type": "T-shirts",
+        "name": "Puma teamLIGA Jersey Cyber",
+        "image": "https://pumamoldova.md/images/products/jpg/70491707875x875.jpg?v12.68",
+        "price": 699
+    },
+    {
+        "id": "puma-teamliga-jersey",
+        "category": "Clothes",
+        "type": "T-shirts",
+        "name": "Puma Teamliga Jersey",
+        "image": "https://pumamoldova.md/images/products/jpg/70491726875x875.jpg?v12.68",
+        "price": 699
+    },
+    {
+        "id": "puma-ess-small-logo-fz-hoddie-fl",
+        "category": "Clothes",
+        "type": "Jackets",
+        "name": "Puma Ess Small Logo Fz Hoodie Fl",
+        "image": "https://pumamoldova.md/images/products/jpg/58670251875x875.jpg?v12.68",
+        "price": 1199
+    },
+    {
+        "id": "puma-ess-big-logo-fz-hoodie-tr",
+        "category": "Clothes",
+        "type": "Jackets",
+        "name": "Puma Ess Big Logo Fz Hoodie Tr",
+        "image": "https://pumamoldova.md/images/products/jpg/58670001875x875.jpg?v12.68",
+        "price": 1149
+    },
+    {
+        "id": "puma-ess-small-logo-crew-fl",
+        "category": "Clothes",
+        "type": "Jackets",
+        "name": "Puma Ess Small Logo Crew Fl",
+        "image": "https://pumamoldova.md/images/products/jpg/58668253875x875.jpg?v12.68",
+        "price": 999
+    },
+    {
+        "id": "puma-better-sportwear-hoodie-tr",
+        "category": "Clothes",
+        "type": "Jackets",
+        "name": "Puma Better Sportswear Hoodie Tr",
+        "image": "https://pumamoldova.md/images/products/jpg/67606401875x875.jpg?v12.68",
+        "price": 1599
+    },
+    {
+        "id": "puma-squad-fz-hoodie-fl",
+        "category": "Clothes",
+        "type": "Jackets",
+        "name": "Puma Squad Fz Hoodie Fl",
+        "image": "https://pumamoldova.md/images/products/jpg/67678904875x875.jpg?v12.68",
+        "price": 1399
+    },
+    {
+        "id": "puma-slipstream-cordura-2",
+        "category": "Footwear",
+        "type": "Casual Shoes",
+        "name": "Puma Slipstream Cordura II",
+        "image": "https://pumamoldova.md/images/products/jpg/39251002875x875.jpg?v12.68",
+        "price": 2499
+    },
+    {
+        "id": "puma-mapf1-amg-suede",
+        "category": "Footwear",
+        "type": "Casual Shoes",
+        "name": "Puma Mapf1 Amg Suede",
+        "image": "https://pumamoldova.md/images/products/jpg/30792002875x875.jpg?v12.68",
+        "price": 2299
+    },
+    {
+        "id": "puma-porsche-slipstream",
+        "category": "Footwear",
+        "type": "Casual Shoes",
+        "name": "Puma Porsche Slipstream",
+        "image": "https://pumamoldova.md/images/products/jpg/30745701875x875.jpg?v12.68",
+        "price": 1999
+    },
+    {
+        "id": "puma-roma-23",
+        "category": "Footwear",
+        "type": "Casual Shoes",
+        "name": "Puma Roma 23",
+        "image": "https://pumamoldova.md/images/products/jpg/39243601875x875.jpg?v12.68",
+        "price": 1899
+    },
+    {
+        "id": "puma-doublecourt-prm",
+        "category": "Footwear",
+        "type": "Casual Shoes",
+        "name": "Puma Doublecourt Prm",
+        "image": "https://pumamoldova.md/images/products/jpg/39328304875x875.jpg?v12.68",
+        "price": 1899
+    },
+    {
+        "id": "puma-cool-cat-v20-v-fs",
+        "category": "Footwear",
+        "type": "Slippers",
+        "name": "Puma Cool Cat 2.0 V Fs",
+        "image": "https://pumamoldova.md/images/products/jpg/39096101875x875.jpg?v12.68",
+        "price": 679
+    },
+    {
+        "id": "puma-leadcat-20-shower",
+        "category": "Footwear",
+        "type": "Slippers",
+        "name": "Puma Leadcat 2.0 Shower",
+        "image": "https://pumamoldova.md/images/products/jpg/38414001875x875.jpg?v12.68",
+        "price": 629
+    },
+    {
+        "id": "puma-leadcat-20",
+        "category": "Footwear",
+        "type": "Slippers",
+        "name": "Puma Leadcat 2.0",
+        "image": "https://pumamoldova.md/images/products/jpg/38413901875x875.jpg?v12.68",
+        "price": 599
+    },
+    {
+        "id": "puma-popcat-20-logo-power",
+        "category": "Footwear",
+        "type": "Slippers",
+        "name": "Puma Popcat 20 Logo Power",
+        "image": "https://pumamoldova.md/images/products/jpg/39096002875x875.jpg?v12.68",
+        "price": 559
+    },
+    {
+        "id": "puma-porsche-leadcat-20",
+        "category": "Footwear",
+        "type": "Slippers",
+        "name": "Puma Porsche Leadcat 2.0",
+        "image": "https://pumamoldova.md/images/products/jpg/30756801875x875.jpg?v12.68",
+        "price": 449
+    },
+    {
+        "id": "puma-rs-x-hi",
+        "category": "Footwear",
+        "type": "Winter shoes",
+        "name": "Puma Rs-X Hi",
+        "image": "https://pumamoldova.md/images/products/jpg/39271802875x875.jpg?v12.68",
+        "price": 2899
+    },
+    {
+        "id": "puma-desierto-v3-puretex",
+        "category": "Footwear",
+        "type": "Winter shoes",
+        "name": "Puma Desierto V3 Puretex",
+        "image": "https://pumamoldova.md/images/products/jpg/39392801875x875.jpg?v12.68",
+        "price": 2799
+    },
+    {
+        "id": "puma-desierto-v3-puretex-beige",
+        "category": "Footwear",
+        "type": "Winter shoes",
+        "name": "Puma Desierto V3 Puretex Beige",
+        "image": "https://pumamoldova.md/images/products/jpg/39392802875x875.jpg?v12.68",
+        "price": 2799
+    },
+    {
+        "id": "puma-tarrenz-sb-111-puretex",
+        "category": "Footwear",
+        "type": "Winter shoes",
+        "name": "Puma Tarrenz Sb III Puretex",
+        "image": "https://pumamoldova.md/images/products/jpg/39393001875x875.jpg?v12.68",
+        "price": 2639
+    },
+    {
+        "id": "puma-tarrenz-sb-111-puretex-beige",
+        "category": "Footwear",
+        "type": "Winter shoes",
+        "name": "Puma Tarrenz Sb III Puretex Beige",
+        "image": "https://pumamoldova.md/images/products/jpg/39393002875x875.jpg?v12.68",
+        "price": 2639
+    },
+    {
+        "id": "puma-at-ess-tote-bag-logo-love",
+        "category": "Accessories",
+        "type": "Bags",
+        "name": "Puma At Ess Tote Bag Logo Love",
+        "image": "https://pumamoldova.md/images/products/jpg/09001101875x875.jpg?v12.68",
+        "price": 1369
+    },
+    {
+        "id": "puma-ferrari-sptwr-race-portable",
+        "category": "Accessories",
+        "type": "Bags",
+        "name": "Puma Ferrari Sptwr Race Portable",
+        "image": "https://pumamoldova.md/images/products/jpg/07982402875x875.jpg?v12.68",
+        "price": 1079
+    },
+    {
+        "id": "puma-sense-cross-body-bag",
+        "category": "Accessories",
+        "type": "Bags",
+        "name": "Puma Sense Cross Body Bag",
+        "image": "https://pumamoldova.md/images/products/jpg/07958101875x875.jpg?v12.68",
+        "price": 1999
+    },
+    {
+        "id": "puma-mapf1-duffle-bag",
+        "category": "Accessories",
+        "type": "Bags",
+        "name": "Puma Mapf1 Duffle Bag",
+        "image": "https://pumamoldova.md/images/products/jpg/07960401875x875.jpg?v12.68",
+        "price": 1839
+    },
+    {
+        "id": "puma-sense-bum-bag",
+        "category": "Accessories",
+        "type": "Bags",
+        "name": "Puma Sense Bum Bag",
+        "image": "https://pumamoldova.md/images/products/jpg/07958201875x875.jpg?v12.68",
+        "price": 1799
+    },
+    {
+        "id": "puma-cage-ball",
+        "category": "Accessories",
+        "type": "Balls",
+        "name": "Puma Cage Ball",
+        "image": "https://pumamoldova.md/images/products/jpg/08407404875x875.jpg?v12.68",
+        "price": 739
+    },
+    {
+        "id": "puma-attacando-graphic",
+        "category": "Accessories",
+        "type": "Balls",
+        "name": "Puma Attacanto Graphic",
+        "image": "https://pumamoldova.md/images/products/jpg/08407303875x875.jpg?v12.68",
+        "price": 599
+    },
+    {
+        "id": "puma-cage-ball-grey",
+        "category": "Accessories",
+        "type": "Balls",
+        "name": "Puma Cage Ball Grey",
+        "image": "https://pumamoldova.md/images/products/jpg/08407403875x875.jpg?v12.68",
+        "price": 589
+    },
+    {
+        "id": "puma-cup-ball",
+        "category": "Accessories",
+        "type": "Balls",
+        "name": "Puma Cup Ball",
+        "image": "https://pumamoldova.md/images/products/jpg/08407503875x875.jpg?v12.68",
+        "price": 589
+    },
+    {
+        "id": "puma-orbita-6-ms",
+        "category": "Accessories",
+        "type": "Balls",
+        "name": "Puma Orbita 6 Ms",
+        "image": "https://pumamoldova.md/images/products/jpg/08378702875x875.jpg?v12.68",
+        "price": 559
+    },
+    {
+        "id": "puma-mapf1-garage-crew-bb-cap",
+        "category": "Accessories",
+        "type": "Caps",
+        "name": "Puma Mapf1 Garage Crew Bb Cap",
+        "image": "https://pumamoldova.md/images/products/jpg/02481201875x875.jpg?v12.68",
+        "price": 779
+    },
+    {
+        "id": "puma-bmw-mms-garage-crew-bb-cap",
+        "category": "Accessories",
+        "type": "Caps",
+        "name": "Puma Bmw Mms Garage Crew Bb Cap",
+        "image": "https://pumamoldova.md/images/products/jpg/02478401875x875.jpg?v12.68",
+        "price": 799
+    },
+    {
+        "id": "puma-bmw-mms-heritage-bb-cap",
+        "category": "Accessories",
+        "type": "Caps",
+        "name": "Puma Bmw Mms Heritage Bb Cap",
+        "image": "https://pumamoldova.md/images/products/jpg/02447901875x875.jpg?v12.68",
+        "price": 679
+    },
+    {
+        "id": "puma-academy-aop-trucker-cap",
+        "category": "Accessories",
+        "type": "Caps",
+        "name": "Puma Academy Aop Trucker Cap",
+        "image": "https://pumamoldova.md/images/products/jpg/02436208875x875.jpg?v12.68",
+        "price": 499
+    },
+    {
+        "id": "puma-metal-cat-cap-jr",
+        "category": "Accessories",
+        "type": "Caps",
+        "name": "Puma Metal Cat Cap Jr",
+        "image": "https://pumamoldova.md/images/products/jpg/02454903875x875.jpg?v12.68",
+        "price": 449
+    }
+]
